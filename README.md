@@ -24,6 +24,4 @@
 
 2019-12-04  R.I.P
 
-<br>
-
 Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
